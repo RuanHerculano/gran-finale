@@ -1,4 +1,7 @@
-# gran-finale
+# Gran Finale
 
-## API
+### Canvas
+Imagem aqui
+
+### API
 https://github.com/RuanHerculano/doom-map
