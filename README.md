@@ -1,6 +1,6 @@
 # Gran Finale
 
-### Canvas
+### CANVAS
 Imagem aqui
 
 ### API
